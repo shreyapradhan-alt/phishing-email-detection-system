@@ -76,6 +76,18 @@ The following table presents the mean scores obtained through five-fold stratifi
 
 ![Model Comparison Chart](model_comparison.png)
 
+Word Cloud Analysis
+
+Phishing Emails
+This word cloud highlights frequently occurring terms in phishing emails.
+
+[Phishing Emails Word Cloud](phishing_wordcloud.png)
+
+Safe Emails
+This word cloud highlights frequently occurring terms in safe emails.
+
+[Safe Emails Word Cloud](safe_wordcloud.png)
+
 8. Results Discussion
 
 Random Forest and SVM achieved the highest mean accuracy at 93% and the highest mean F1-score at 77.2%. Both models performed similarly across the evaluated metrics.
