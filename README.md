@@ -138,3 +138,16 @@ The results suggest that Random Forest and SVM are the strongest candidates amon
 This project explored the use of machine learning for phishing email classification by comparing Logistic Regression, Random Forest, and SVM using five-fold stratified cross-validation. Random Forest and SVM achieved the highest mean accuracy and F1-score on the available dataset.
 
 The small dataset and its repetitive email templates limit the conclusions that can be drawn about real-world performance. Further testing on a larger and more diverse dataset is necessary to assess the reliability of the models for practical phishing detection.
+
+Key Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Text preprocessing: Preparing email text for machine learning analysis.
+- Feature extraction:Using TF-IDF to convert text into numerical features.
+- Model development:Training and comparing Logistic Regression, Random Forest, and Support Vector Machine (SVM) classifiers.
+- Model evaluation:Using accuracy, precision, recall, F1-score, and cross-validation to assess model performance.
+- Data visualization:Creating model comparison charts and word clouds to explore email text patterns.
+- Critical evaluation: Recognizing how duplicate records, class imbalance, and limited unique examples can affect evaluation results.
+
+This project strengthened my understanding of machine learning for email security and the importance of evaluating phishing detection systems carefully.
