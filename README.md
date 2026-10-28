@@ -88,6 +88,17 @@ This word cloud highlights frequently occurring terms in safe emails.
 
 ![Safe Emails Word Cloud](safe_wordcloud.png)
 
+Interpretation
+
+The word clouds provide a visual comparison of frequently occurring words in phishing and safe emails. They help identify common vocabulary and potential patterns in the email text.
+
+- Phishing emails:Frequently occurring words may relate to urgency, account verification, security alerts, or requests for action.
+- Safe emails:Frequently occurring words may reflect ordinary communication, general information, or routine activities.
+
+Word clouds are useful for exploratory text analysis, but word frequency alone cannot determine whether an email is malicious. The findings should be interpreted alongside the machine learning model evaluation results.
+
+Limitation: The dataset contains repetitive email text and a relatively small number of unique examples. Therefore, these visual patterns should be treated as preliminary rather than representative of all phishing and safe emails.
+
 8. Results Discussion
 
 Random Forest and SVM achieved the highest mean accuracy at 93% and the highest mean F1-score at 77.2%. Both models performed similarly across the evaluated metrics.
