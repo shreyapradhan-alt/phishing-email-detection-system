@@ -81,12 +81,12 @@ Word Cloud Analysis
 Phishing Emails
 This word cloud highlights frequently occurring terms in phishing emails.
 
-[Phishing Emails Word Cloud](phishing_wordcloud.png)
+![Phishing Emails Word Cloud](phishing_wordcloud.png)
 
 Safe Emails
 This word cloud highlights frequently occurring terms in safe emails.
 
-[Safe Emails Word Cloud](safe_wordcloud.png)
+![Safe Emails Word Cloud](safe_wordcloud.png)
 
 8. Results Discussion
 
